@@ -1,3 +1,3 @@
-This is my project for the first FreeCodeCamp Project: Tribute page.
+FreeCodeCamp Project: Tribute Page
 
-Practicing responsive web design.
+Practice using HTML and CSS to make a responsive tribute page.
